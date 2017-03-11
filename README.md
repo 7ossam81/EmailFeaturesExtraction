@@ -1,5 +1,6 @@
 # EmailFeaturesExtraction
-implemented an open source and flexible tool to provide the ability to extract the features that are mentioned in previous section using any email corpus have emails with EML extension. Then the tool will split the emails’ parts (From, To, CC, BCC, Subject, Text Body, and HTML Body) in an output file and extract the selected features in another one as a CSV file., if errors occurred during the extraction process an error file will be generated as well.
+
+This is an open source and flexible tool to provide the ability to extract the email spam features using any email corpus have emails with EML extension. Then the tool will split the emails’ parts (From, To, CC, BCC, Subject, Text Body, and HTML Body) in an output file and extract the selected features in another one as a CSV file., if errors occurred during the extraction process an error file will be generated as well.
 
 EML file extension is one of the most common extensions for the exported emails from many email applications such as Outlook, Thunderbird and Gmail. Email files in the corpora can be converted easily to the EML extension by rename it to any names with this extension. 
  
